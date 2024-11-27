@@ -1,0 +1,1 @@
+1. git checkout -b branch2      checkout-切換分支    -b-建立並切換至新的分支     branch2-分支名稱
